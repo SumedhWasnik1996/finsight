@@ -33,6 +33,10 @@ migrate_working_dir/
 /build/
 /coverage/
 
+  
+lib/core/constants.dart # NEVER commit — contains your TrueLayer Client ID
+
+
 # Symbolication related
 app.*.symbols
 
